@@ -12,5 +12,7 @@
 
 Скріншоти гри + локалізація + папка з локалізаціею
 https://monosnap.com/file/eUxD8ZgZvb9QcyfDzJfE8mUf8HDSZy
+
 https://monosnap.com/file/3ILmL2ihxMx1XIbJ5c7qsTffY7oTxa
+
 https://monosnap.com/file/YNuiTVbx9BwyXyinsufx1P68tynXLT
