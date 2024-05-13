@@ -7,3 +7,5 @@
 
 Файл потрібно покласти у папку гри по шляху "Steam\steamapps\common\VRising\VRising_Data\StreamingAssets\Localization"
 Повний шлях до файлу має бути таким "Steam\steamapps\common\VRising\VRising_Data\StreamingAssets\Localization\Ukraine.json"
+
+Також там у теці "VRising\VRising_Data\StreamingAssets\Localization" є інші файли локалізації, їх можна також і видаляти щоб не бачити в грі наприклад мову країни терориста, я думаю кожен знайде там файлік з назвою такої мови.
