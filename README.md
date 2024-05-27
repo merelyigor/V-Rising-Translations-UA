@@ -18,7 +18,7 @@ https://vrising-ua.eremenko.top
 
 Щоб додати в гру Українську мову потрібно завантажити файл, Ukraine.zip, всередині є один файл Ukraine.json (це і є файл Української локалізації)
 
-Також файл можна завантажити з [ГУГЛ ДИСКУ](https://drive.google.com/file/d/1JuhxnTiD5QDzdPg0HtLvuAUYPH4dlFka/view?usp=sharing)
+Також файл можна завантажити з [ГУГЛ ДИСКУ](https://drive.google.com/drive/folders/1pKggNt87h1edFARZNTV2-kS1CYRPu2QZ?usp=sharing)
 
 Файл потрібно покласти у папку гри по шляху "Steam\steamapps\common\VRising\VRising_Data\StreamingAssets\Localization"
 Повний шлях до файлу має бути таким "Steam\steamapps\common\VRising\VRising_Data\StreamingAssets\Localization\Ukraine.json"
